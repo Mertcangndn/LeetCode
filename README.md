@@ -8,4 +8,4 @@ Practicing algorithms, data structures, and problem-solving.
 - Solutions in C, Python, Java etc.
 
 ## 📝 Note  
-For learning & practice — not always optimal 🚧  
+For learning & practice — not always optimal 🚧
