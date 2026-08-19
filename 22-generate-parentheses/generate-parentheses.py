@@ -4,7 +4,7 @@ class Solution:
 
         def recFunc(localPath="", left=0, right=0):
             # Base case
-            if len(localPath) == n*2:
+            if left == n and right == n:
                 result.append(localPath)
                 return
             
